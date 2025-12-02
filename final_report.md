@@ -1,4 +1,4 @@
-[제목 없는 다이어그램.drawio](https://github.com/user-attachments/files/23873326/default.drawio)# 프로젝트 중간보고서
+# 프로젝트 최종보고서
 
 ## 1. 프로젝트 개요 *필수작성
 
@@ -96,7 +96,7 @@
 * **학습환경:**  
   - 모델 학습 없음 (API 기반)
 
-#### 2.3.5. 결과 *필수작성
+#### 2.3.5. 결과
 
 * Flask API 구현 완료
 * JSON POST 입력 테스트 완료
