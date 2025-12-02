@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  overflow-y: auto;
+}
+
+/* 타임라인 수직 라인 */
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 1.125rem;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #e5e7eb;
+}
