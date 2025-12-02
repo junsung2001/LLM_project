@@ -80,8 +80,7 @@
 * **시스템 구조 블록 다이어그램:**
 
 ```
-![제목 없는 다이어그램](https://github.com/user-attachments/assets/fc855122-44ec-453e-b3fe-ca6cc4e16ff8)
-
+![image]https://github.com/junsung2001/LLM_project/issues/1#issue-3684536405
 ```
   
 
